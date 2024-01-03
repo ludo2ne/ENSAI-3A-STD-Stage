@@ -19,19 +19,25 @@
 # :gem: Contenu
 
 * En lien avec les enseignements de la filière STD
-* Machine Learning (Deep Learning, NLP)
-* Développement web et Dataops
-* Big Data
-* Système, Réseaux et Sécurité
+  * Machine Learning (Deep Learning, NLP)
+  * Développement web et Dataops
+  * Big Data
+  * Système, Réseaux et Sécurité
+* Il est préférable de travailler sur des domaines connus et ensuite d'aller plus loin
+* Plutôt que de partir directement sur des sujets trop exotiques
 
 ---
 
-# Exemples de sujets de stages récents
+# :speech_balloon: Exemples de sujets de stages récents
 
-* L’intelligence artificielle au profit de la détection de sorties de données frauduleuses
+* L'intelligence artificielle au profit de la détection de sorties de données frauduleuses
 * Identifier, analyser et prototyper une solution d’architecture pour exposer les services autour des métadonnées
 * Construction d’un moteur d’agrégation de données individuelles utilisable en interactif
-* Développement informatique d’une application web
+* Optimisation du calcul des populations légales à travers une architecture de calcul distribué
+* Automatisation de la transformation des données individuelles pour la diﬀusion européenne
+* Développement d’une application mobile pour les enquêteurs
+* OpenSource et Modularité à l'INSEE : Exemple avec l'implémentation d'une méthode d'échantillonage
+* Comment proposer une architecture conteneurisée pour répondre aux besoins de services en « self-déploiement » et d'intégration continue ?
 
 ---
 
@@ -148,7 +154,7 @@ Vous n'arrivez pas à montrer ce que vous avez fait
 
 ---
 
-# Pour terminer
+# :checkered_flag: Pour terminer
 
 * Produisez quelque chose dont vous êtes fier
 * Produisez un travail sérieux
